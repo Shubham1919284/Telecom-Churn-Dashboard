@@ -27,7 +27,7 @@ The primary objective of this project is to explore and visualize factors that i
 
 ## 📷 Dashboard Overview
 
-![Dashboard Screenshot](./Screenshot%202025-08-03%20185159.png)
+![Dashboard Screenshot](https://github.com/Shubham1919284/Telecom-Churn-Dashboard/blob/9ede81c84a3463145f4f6df3c2d4d5862e66c57c/Telecom%20Churn%20Analysis%20Dashboard--.png)
 
 The dashboard contains multiple visualizations to break down the churn analysis from various angles.
 
