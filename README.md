@@ -20,7 +20,8 @@ The primary objective of this project is to explore and visualize factors that i
 |------|-------------|
 | `TelecomChurnDashboard.pbix` | Full Power BI report (includes visuals, data model, and loaded dataset) |
 | `TelecomChurnDashboard.pbit` | Power BI report template (same visuals and model, **no data**) |
-| `Screenshot 2025-08-03 185159.png` | High-resolution image of the dashboard used in this repository |
+| [**Telecom Churn Analysis Dashboard**](./Telecom%20Churn%20Analysis%20Dashboard.png) | High-resolution image of the dashboard used in this repository |
+
 
 ---
 
