@@ -5,7 +5,7 @@ This project is a detailed business intelligence dashboard built using **Power B
 ---
 
 ## 🧠 Project Objective
-
+ 
 The primary objective of this project is to explore and visualize factors that influence customer churn in the telecom industry, enabling the company to:
 
 - Understand **which customers are leaving and why**
