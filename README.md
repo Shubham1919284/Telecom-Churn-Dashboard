@@ -130,11 +130,12 @@ The dashboard contains multiple visualizations to break down the churn analysis 
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Author
 
-📌 **Author**: Shubham Kumar Jha  
-🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c)  
-💻 [GitHub](https://github.com/Shubham1919284)
+Shubham Kumar Jha 🎓 B.Tech CSE (Data Science) | Gulzar Group of Institutes (PTU)  
+📧 Email: sk1919284@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/shubham-kumar-jha-1a2b3c](https://linkedin.com/in/shubham-kumar-jha-1a2b3c)  
+🔗 GitHub: [github.com/Shubham1919284](https://github.com/Shubham1919284)
 
 ---
 
@@ -142,3 +143,8 @@ The dashboard contains multiple visualizations to break down the churn analysis 
 
 This project is open-source and free to use for educational and portfolio purposes. Attribution appreciated.
 
+---
+
+⭐ If you like this project, don’t forget to **star the repo** and share feedback!
+
+---
